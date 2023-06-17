@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Meet the web wizard behind Starsky.pro! <br><br>🌟 This guy is so good at coding, he can make a website appear out of thin air! <br><br>🤯 When he's not busy creating AI content, he's probably playing valorant<br><br>👨‍🔬 But don't let his love for all things tech fool you - he's a people person at heart and always goes above and beyond to make his clients happy. 💯<br><br>👀 Keep an eye out for this rising star in the tech world - he's definitely one to watch! 🔭<br><br>🤫 So if you want a website that's out of this world 🚀, look no further than the one and only Starsky.pro! 🌟
+👨‍💻 Meet the web wizard behind Starsky.pro! <br><br>🌟 This guy is so good at coding, he can make a website appear out of thin air! <br><br>🤯 When he's not busy creating AI content, he's probably playing valorant<br><br>👨‍🔬 But don't let his love for all things tech fool you - he's a people person at heart and always goes above and beyond to make people around him happy. 💯<br><br>👀 Keep an eye out for this rising star in the tech world - he's definitely one to watch! 🔭<br><br>🤫 So if you want a website that's out of this world 🚀, look no further than the one and only Starsky.pro! 🌟
 
 
 ## 🌐 Socials:
