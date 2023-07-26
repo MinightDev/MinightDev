@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Minight</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minightdev&label=Profile%20views&color=0e75b6&style=flat" alt="minightdev" /> </p>
 
 - 🔭 I’m currently working on [Starsky AI](https://starsky.pro/)
 
-- 🌱 I’m currently learning **ML,AI**
+- 🌱 I’m currently learning **ML, AI**
 
-- 👨‍💻 All of my projects are available at [https://starsky.pro/](https://starsky.pro/)
+- 👨‍💻 All of my projects are available at [Starsky](https://starsky.pro/)
 
-- 📝 I regularly write articles on [https://blog.starsky.pro/](https://blog.starsky.pro/)
+- 📝 I regularly write articles on [Blog](https://blog.starsky.pro/)
 
 - 💬 Ask me about **PHP, JS, C, Python**
 
