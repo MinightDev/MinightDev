@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **ML, AI**
 
-- 👨‍💻 All of my projects are available at [Starsky](https://starsky.pro/)
-
 - 📝 I regularly write articles on [Blog](https://blog.starsky.pro/)
 
 - 💬 Ask me about **PHP, JS, C, Python**
