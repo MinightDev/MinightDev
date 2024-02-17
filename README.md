@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minightdev&label=Profile%20views&color=0e75b6&style=flat" alt="minightdev" /> </p>
 
-- 🔭 I’m currently working on [Starsky AI](https://starsky.pro/) & [Autoshorts AI](https://autoshorts.com/) &[Paperclip](https://paperclip.pythonanywhere.com/) 
+- 🔭 I’m currently working on [Starsky AI](https://starsky.pro/) & [Autoshorts AI](https://autoshorts.com/) & [Paperclip](https://paperclip.pythonanywhere.com/) 
 
 - 🌱 I’m currently learning **ML, AI**
 
