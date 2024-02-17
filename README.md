@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Blog](https://blog.starsky.pro/)
 
-- 💬 Ask me about **PHP, JS, C, Python**
+- 💬 Ask me about **PHP, Django, JS, C, Python, MYSQL**
 
 - 📫 How to reach me **ayoub@starsky.pro**
 
