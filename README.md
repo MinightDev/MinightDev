@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP, Django, JS, C, Python, MYSQL**
 
-- 📫 How to reach me **ayoub@starsky.pro**
+- 📫 How to reach me (requests, custom work) **hello@monzed.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
