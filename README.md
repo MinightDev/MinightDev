@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML, AI**
 
-- 📝 I regularly write articles on [Blog](https://blog.starsky.pro/)
+- 📝 I regularly write articles on [Blog](https://blog.starsky.app/)
 
 - 💬 Ask me about **PHP, Django, JS, C, Python, MYSQL**
 
