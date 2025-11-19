@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minightdev&label=Profile%20views&color=0e75b6&style=flat" alt="minightdev" /> </p>
 
-- 🔭 I’m currently working on [Starsky AI](https://monzed.com/) & [Autoshorts AI](https://autoshorts.com/) & [Chirps](https://monzed.com/products/382e5ab6-ba80-4dbc-b702-b8612d3e06e3) 
+- 🔭 I’m currently working on [Monzed Labs](https://monzed.com/) & [Autoshorts AI](https://autoshorts.com/) & [Chirps](https://monzed.com/products/382e5ab6-ba80-4dbc-b702-b8612d3e06e3) 
 
 - 🌱 I’m currently learning **ML, AI**
 
