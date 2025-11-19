@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minightdev&label=Profile%20views&color=0e75b6&style=flat" alt="minightdev" /> </p>
 
-- 🔭 I’m currently working on [Starsky AI](https://starsky.pro/) & [Autoshorts AI](https://autoshorts.com/) & [Paperclip](https://paperclip.pythonanywhere.com/) 
+- 🔭 I’m currently working on [Starsky AI](https://monzed.com/) & [Autoshorts AI](https://autoshorts.com/) & [Chirps](https://monzed.com/products/382e5ab6-ba80-4dbc-b702-b8612d3e06e3) 
 
 - 🌱 I’m currently learning **ML, AI**
 
-- 📝 I regularly write articles on [Blog](https://blog.starsky.app/)
+- 📝 I regularly write articles on [Blog](https://monzed.com/news)
 
 - 💬 Ask me about **PHP, Django, JS, C, Python, MYSQL**
 
-- 📫 How to reach me (requests, custom work) **hello@starsky.app**
+- 📫 How to reach me (requests, custom work) **ayoub@monzed.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
